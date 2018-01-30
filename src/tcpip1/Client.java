@@ -45,6 +45,8 @@ public class Client {
 			}
 			
 		}
+		
+		System.out.println("asdfas");
 
 	}
 }
