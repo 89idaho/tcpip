@@ -39,8 +39,7 @@ public class Client {
 				outw.close();
 				outs.close();			
 				socket.close();
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
+			} catch (IOException e) {				
 				e.printStackTrace();
 			}
 			
